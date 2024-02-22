@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leehhee/flowkat/static/css/main.f51b3124.css",
+    "main.js": "/leehhee/flowkat/static/js/main.be451136.js",
+    "static/js/453.56f46472.chunk.js": "/leehhee/flowkat/static/js/453.56f46472.chunk.js",
+    "static/media/logo.svg": "/leehhee/flowkat/static/media/logo.ebc260f9fdc261c972d669770dc61499.svg",
+    "index.html": "/leehhee/flowkat/index.html",
+    "main.f51b3124.css.map": "/leehhee/flowkat/static/css/main.f51b3124.css.map",
+    "main.be451136.js.map": "/leehhee/flowkat/static/js/main.be451136.js.map",
+    "453.56f46472.chunk.js.map": "/leehhee/flowkat/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51b3124.css",
+    "static/js/main.be451136.js"
+  ]
+}
